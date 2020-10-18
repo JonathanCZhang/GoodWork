@@ -2,7 +2,7 @@
 title: "Willingness to have kid in relation to income, age and number of existing kids"
 author: "Yuhan Huang, Tong Li, Chong Zhang, Chuyi Zhang"
 bibliography: "reference.bib"
-date: "2020-10-19T21:49:57-07:00"
+date: "2020-10-18T21:49:57-07:00"
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 output:
